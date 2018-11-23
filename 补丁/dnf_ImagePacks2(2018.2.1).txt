@@ -5580,4 +5580,8 @@ sprite_monster_cataclysm_abnova_icecrystal_forest_frozen_snake.NPK
 起源版-冰晶森林-冻结的蛇
 
 
-
+sprite_map_cataclysm_granflores_grakqarak_tile.NPK
+sprite_map_cataclysm_granflores_grakqarak_pathgate.NPK
+sprite_map_cataclysm_granflores_grakqarak_object.NPK
+sprite_map_cataclysm_granflores_grakqarak_background.NPK
+烈焰格拉卡
